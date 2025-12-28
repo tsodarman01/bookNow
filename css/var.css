@@ -1,0 +1,11 @@
+:root {
+  --color1: hsl(0, 0%, 3%);
+  --color2: hsl(0, 0%, 5%);
+  --color3: hsl(0, 0%, 10%);
+  --borderColor: rgb(80, 80, 80);
+  --borderColor2: hsl(0, 0%, 3%);
+  --otherColor1: hsl(0, 0%, 95%);
+  --otherColor2: rgb(223, 0, 0);
+  --shadowColor: rgb(77, 77, 77);
+  --placeholderColor: #a1a1a1;
+}
